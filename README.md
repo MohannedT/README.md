@@ -1,5 +1,29 @@
-# Test0
-<hi align="center">Hi I'm Mohamed ,';;</h1> <p align="center"> <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-96231FA1F1?style=flat&logo=twitter&logoColor=white"L></a> <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-96230177B5?style=flat&logo=linkedin&logoColor=white"L></a> <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-9623FF0000?style=flat&logo=youtube&logoColor=white"L></a> <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-9623E4415F?style=flat&logo=instagram&logoColor=white"L></a> </p> 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="2596"/> 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase. 
-- I'm a software developer j@Deliveryherol(https://www.deliveryhero.com/) in Berlin, Germany - I have 2 live apps: - iQuran-tab (chrome extension)1(https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd) - Wazaker App ((Android versionl(https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), (i0S versionl(https://apps.apple.com/app/apple-store/id1453500014)) - Ask me about **Reactis and Frontend**
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
+Happy Coding! 😊
+
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
+<i>Follow me:</i><br>
+
+<a href="https://[www.linkedin.com/in/absphreak](https://www.linkedin.com/in/mohanad-tariq/ )" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+</div>
+
+
+⭐ From [ABSphreak](https://github.com/ABSphreak)
